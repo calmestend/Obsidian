@@ -1,0 +1,10 @@
+{
+  "defaultViewMode": "preview",
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "foldIndent": true
+}

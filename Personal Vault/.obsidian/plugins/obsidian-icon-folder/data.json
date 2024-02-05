@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCodeSSlashFill",
+      "RiBook2Line",
+      "RiImageAddLine",
+      "RiHome4Line",
+      "RiMapPinUserFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "02.Escuela": "RiGraduationCapFill",
+  "00.Personal": "RiMapPinUserFill",
+  "media": "RiImageAddLine",
+  "00.Personal/001.Libreria": "RiBook2Line",
+  "Bienvenido Barac.md": "RiHome4Line",
+  "00.Personal/Programacion": "RiCodeSSlashFill",
+  "01.Daily notes": "RiStickyNoteFill"
+}

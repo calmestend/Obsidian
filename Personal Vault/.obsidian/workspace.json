@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ca1fde75d36dce0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd40ae24c321f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6760bfafd846db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido Barac.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c86367323166f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4a6b4d7803b7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aeba95268c71eae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01825bd65032440f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a2344ac68c49551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6c6843e33ead1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec227106c432d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfed0fad30c8aa12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido Barac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f62aafe35aea1d18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido Barac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "657a613b4f320c95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20a43068d595b37b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido Barac.md"
+              }
+            }
+          },
+          {
+            "id": "09e251b395f15b20",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 711.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b6760bfafd846db",
+  "lastOpenFiles": [
+    "02.Escuela/03.DB/Base de Datos para MMDS.md",
+    "02.Escuela/03.DB/Sistema-Gestor-de-DB.md",
+    "Untitled.md",
+    "02.Escuela/02.POO/Conceptos.md",
+    "Bienvenido Barac.md",
+    "02.Escuela/01.MMDS/Proyecto.md",
+    "00.Personal/Programacion/Java/Java Basics.md",
+    "02.Escuela/03.DB/Sistema-Gestir-de-DB.md",
+    "00.Personal/002.Integradora-I/Ideas.md",
+    "01.Daily notes/Jan 16, 24.md",
+    "01.Daily notes/Jan 15, 24.md",
+    "media/borrador.png",
+    "02.Escuela/01.MMDS/proyecto.md",
+    "01.Daily notes/Dec 26, 23.md",
+    "reservated-words.png",
+    "media/Pasted image 20231229154252.png",
+    "media/Pasted image 20231227183405.png",
+    "Pasted image 20231227183315.png",
+    "Pasted image 20231227183310.png",
+    "00.Personal/001.Libreria/Programación.md",
+    "00.Personal/001.Libreria/Head_First_Java_Second_Edition.pdf",
+    "Head-First-Java-Second-Edition.pdf.md",
+    "00.Personal/Programacion/Java",
+    "00.Personal/Programacion",
+    "media/Pasted image 20231226034916.png",
+    "00.Personal/001.Libreria/Head-First-Java-2nd-edition.pdf",
+    "00.Personal/001.Libreria",
+    "02.Escuela",
+    "00.Personal",
+    "media",
+    "Pasted image 20231226012756.png",
+    "Pasted image 20231226012748.png",
+    "another-note.md",
+    "01.Daily notes",
+    "another.md",
+    "www.youtube.com.md",
+    "2023-12-26.md"
+  ]
+}
